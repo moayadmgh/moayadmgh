@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Clinicana](https://www.clinicana.com), [Key4](https://www.key4.com)
 
-- 🌱 I’m currently learning **Blockchain, React, WEB 3.0**
+- 🌱 I’m currently learning **Blockchain, React, WEB 3.0, THREE.js**
 
 - 💬 Ask me about **PHP - HTML - CSS - SASS - Javascript - Zend Framework - Bootstrap**
 
