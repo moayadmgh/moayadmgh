@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Moayad AlMoghrabi</h1>
 
-<p>Experienced senior backend engineer based in Istanbul, Turkey, with a proven track record in full-stack web development, specializing in prominent PHP frameworks like Laravel and Zend. My expertise encompasses front-end technologies, API integrations, and a deep understanding of design methodologies and architectural principles.
+<p>
+I'm a Senior Software Engineer based in Germany with 11+ years of experience building backend systems, APIs, integrations, and e-commerce platforms.
 
-Throughout my career, I have successfully led the development and maintenance of high-traffic e-commerce websites, implementing innovative solutions for seamless cross-border operations. Proficient in various programming languages and frameworks, I am committed to staying at the forefront of technology
+My strongest background is in PHP, MySQL, and backend development, with hands-on experience designing integration-heavy systems, synchronization workflows, background processing, database optimization, and production tooling. I've worked with technologies including Laravel, Zend, Redis, Elasticsearch, Docker, AWS, GitHub Actions, Grafana, and Graylog.
 
-My collaborative approach, strong problem-solving skills, and effective communication have consistently contributed to project success. Explore the details below to gain insights into my technical proficiency, skills, and contributions.</p>
+Over the years, I've worked on systems involving marketplace integrations, payment workflows, webhook-driven synchronization, retries and reconciliation, idempotency, large product catalogs, and performance-sensitive database workloads.
+
+I enjoy understanding how systems behave end to end, finding edge cases before they become production problems, and improving existing systems rather than just adding features.
+
+I'm particularly interested in backend engineering, distributed workflows, APIs, system reliability, and opportunities to work with modern backend and cloud technologies.
+</p>
